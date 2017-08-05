@@ -25,7 +25,7 @@ body.landing {
 
 .hero-content {
 	position: relative;
-	min-height: 600px; /* changed from original 600px to get entire image in */
+	min-height: 1200px; /* changed from original 600px to get entire image in */
 	background-image: url(../assets/images/bloc_jams_bg.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
