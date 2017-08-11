@@ -25,7 +25,7 @@ body {
 .navbar > .logo {
     position: relative;
     left: 2rem;
-    cursor: pointer;  /* produces the finger-pointer icon when you hover over the logo */
+    cursor: pointer;  
  }
  
  .navbar .links-container {
