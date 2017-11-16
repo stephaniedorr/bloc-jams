@@ -27,7 +27,7 @@ var buildCollectionItemTemplate = function() {
 
      $collectionContainer.empty();
  
-     for (var i = 0; i < 30; i++) {
+     for (var i = 0; i < 12; i++) {
 
          var $newThumbnail = buildCollectionItemTemplate();
 
